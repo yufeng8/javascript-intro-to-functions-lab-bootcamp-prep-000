@@ -19,7 +19,7 @@ function shout(string) {
 }
 
 function whisper(string) {
-  return string.toEqual()
+  return string.toLowerCase()
 }
 
 function shout(string) {
